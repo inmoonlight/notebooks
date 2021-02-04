@@ -1,4 +1,5 @@
-notebook=$1  # notebooks/${title}.ipynb
+notebook=$1  # html/${title}.html
+
 filename=$(cut -d '.' -f1 <<< "$(cut -d '/' -f2 <<< $notebook)")
 echo "Append ${filename} to README.md"
 readme="README.md"
