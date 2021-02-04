@@ -1,5 +1,4 @@
-# Notebooks
-Jupyter notebooks that I've used for various purpose: visualization, prototyping, and so on.
+### Jupyter notebooks that I've used for various purpose: visualization, prototyping, and so on.
 
 ## List
 - [2020-01-26-MemN2N-Position-Encoding](html/2020-01-26-MemN2N-Position-Encoding.html)
