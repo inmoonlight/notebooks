@@ -8,3 +8,4 @@ HOME >> https://inmoonlight.github.io/notebooks/
 - [2021-01-24-modu-colloquial-corpus-hate-bias-filtering](https://inmoonlight.github.io/notebooks/html/2021-01-24-modu-colloquial-corpus-hate-bias-filtering.html)
 - [2021-02-04-pandas-dataframe-iterations](https://inmoonlight.github.io/notebooks/html/2021-02-04-pandas-dataframe-iterations.html)
 - [2021-02-21-PyTorch-Dataset](https://inmoonlight.github.io/notebooks/html/2021-02-21-PyTorch-Dataset.html)
+- [2021-03-03-PyTorch-view-transpose-reshape](https://inmoonlight.github.io/notebooks/html/2021-03-03-PyTorch-view-transpose-reshape.html)
